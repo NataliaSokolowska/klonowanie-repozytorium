@@ -1,2 +1,2 @@
 # klonowanie-repozytorium
-part 2
+przykładowa strona do sklonowania pod wyzwanie odbywające się na BedeProgramistka.pl
